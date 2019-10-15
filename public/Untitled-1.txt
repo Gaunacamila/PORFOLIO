@@ -1,0 +1,2 @@
+layout = son adminidtradores, contenedores 
+nos permite ver como estan distribuidos , paneles y jframe

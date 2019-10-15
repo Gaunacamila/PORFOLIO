@@ -1,0 +1,62 @@
+body {
+
+	background-image: url(imagen.jpg);
+	background-size: 35vw 102vh;
+	background-position: center;
+	background-attachment: fixed;
+	margin:0;
+	font-family:monospace;
+}
+
+form {
+	width: 450px;
+	margin: auto;
+	background: rgba(0,0,0,0.4);
+	padding: 10px 20px;
+	box-sizing: border-box;
+	margin-top: 30px;
+	border-radius: 7px;
+}
+
+h2 {
+
+	color:pink;
+	text-align: center;
+	margin: 0;
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+
+input ,textarea {
+
+	width: 100%;
+	margin-bottom:20px;
+	padding: 7px;
+	box-sizing: border-box;
+	font-size: 17px;
+	border: none;
+}
+
+textarea {
+	min-height: 100px;
+	max-height: 200px;
+	max-width: 100%;
+
+}
+
+#boton{
+
+	background: #614355;
+	color: white;
+	padding: 60px;
+	border-radius: 7px;
+}
+
+#boton:hover{
+	cursor: pointer;
+}
+
+p {
+	color: whitesmoke;
+	text-align: center;
+}

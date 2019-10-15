@@ -1,0 +1,40 @@
+body {
+    background-image: url(dog.jpg);
+    background-size: 43vw 102vh;
+    background-repeat: no-repeat;
+    background-position: center;
+	background-attachment: fixed;
+	margin:0;
+	font-family:monospace;
+}
+
+h1 {
+
+	color: black;
+	text-align: center;
+	margin: 60;
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+
+
+h2 {
+
+	color:black;
+	text-align: center;
+	margin: 0;
+	font-size: 20px;
+	margin-bottom: 50px;
+}
+#boton{
+
+	background: #614355;
+	color: white;
+	padding: 60px;
+	border-radius: 7px;
+	
+}
+
+#boton:hover{
+	cursor: pointer;
+}
