@@ -1,5 +1,5 @@
 # PORFOLIO
-Porfolio de Fotografía 
+Porfolio de Fotografía HTML5 - CSS - Javascript
 
 Este es mi primer proyecto en Node 
 Para crear este proyecto, pense que sería la mejor oportunidad mezclar dos mundos que me apasionan 
